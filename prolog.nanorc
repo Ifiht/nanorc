@@ -1,4 +1,4 @@
-code## Here is a prolog example.
+#code## Here is a prolog example.
 
 syntax "prolog" "\.pl"
 comment "%"
